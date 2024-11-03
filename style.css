@@ -1,0 +1,83 @@
+.navbar,
+footer {
+    background: linear-gradient(to left, #ec1a23, #0f0f0f);
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+#d1,
+#d2,
+#d3,
+#d4,
+#d5 {
+    background: linear-gradient(to right, #ec1a23, #c0c0c0);
+    display: block;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.Posters {
+    justify-content: space-between;
+}
+
+
+.Media{
+    justify-content: space-between;
+}
+
+
+#i1,
+#i2,
+#i3,
+#i4,
+#i5,
+#i6,
+#i7,
+#i8,
+#i9,
+#i10{
+      display: flex;
+      justify-content: center;
+}
+
+
+#c1,
+#c2,
+#c3,
+#c4,
+#c5,
+#c6,
+#c7,
+#c8,
+#c9,
+#c10 {
+    text-align: center;
+    text-indent: 10px;
+}
+
+
+#b1,
+#b2,
+#b3,
+#b4{
+    border-radius: 5px;
+    border: #ca5b61;
+    background-color: #ca5b61;
+    font-weight: bold;
+}
+
+
+#quoteDisplay {
+    font-size: 1.5em;
+    margin: 20px 0;
+}
+
+footer {
+    border-top: 5%;
+    align-content: center;
+    text-align: center;
+    font-size: large;
+   
+}
